@@ -1,5 +1,5 @@
 ##how to use  
-'''python
+```python
 > pip install numpy matplotlib simpy
 > python3 cache_sim.py
-'''
+```
